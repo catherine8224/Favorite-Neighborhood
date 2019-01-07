@@ -1,4 +1,4 @@
-Favorite Neighborhood: Upper East Side:
+Favorite Neighborhood: Upper East Side
 Zip codes: 10021, 10028, 10029, 10065, 10075, 10128
 
 Demographics
